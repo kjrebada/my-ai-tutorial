@@ -1,0 +1,14 @@
+{
+  "name": "my-ai-tutorial-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "5.3.0",
+    "redis": "6.3.1"
+  }
+}

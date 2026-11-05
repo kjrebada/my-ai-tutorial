@@ -1,0 +1,9 @@
+{
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "chat.agentHost.agentDebugLog.enabled": true,
+    "github.copilot.chat.agentDebugLog.fileLogging.enabled": true
+}
+}
